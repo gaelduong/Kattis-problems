@@ -1,2 +1,3 @@
 # shiny-adventure
-life
+my goal is to MAINTAIN my routine
+
